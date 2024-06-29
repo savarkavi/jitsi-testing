@@ -117,6 +117,7 @@ export default function Home() {
           }}
           userInfo={{
             displayName: displayName,
+            email: "",
           }}
           onApiReady={handleApiReady}
           getIFrameRef={(iframeRef) => {
