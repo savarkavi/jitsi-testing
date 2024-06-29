@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@jitsi/react-sdk": "^1.4.0",
+    "@types/jitsi-meet": "^2.0.5",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18"
